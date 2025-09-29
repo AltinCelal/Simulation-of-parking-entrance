@@ -11,3 +11,4 @@ In addition, the STM32 board was communicated with Qt via serial communication, 
 When the entrance is open, it lights green, and when it is closed, it lights red.
 <img width="1002" height="792" alt="resim" src="https://github.com/user-attachments/assets/d10c5a76-570f-4388-a427-e8206b88b883" />
 
+Additionally, you can watch the demonstration video at https://youtu.be/ZVM2jiHmuH8.”
